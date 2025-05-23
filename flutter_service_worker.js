@@ -1,1 +1,1 @@
-// Service worker for offline support
+// 오프라인 지원 코드

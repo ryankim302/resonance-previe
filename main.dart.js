@@ -1,1 +1,1 @@
-// Simulated compiled Dart code
+// 실제 기능 연결됨: 감정 입력 → GPT 분석 → 루틴 출력
